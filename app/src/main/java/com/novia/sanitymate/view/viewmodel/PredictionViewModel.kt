@@ -10,9 +10,7 @@ import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
-/** Raihan Chaira on 6/15/2024
- * raihanchaira21@gmail.com
- */
+
 class PredictionViewModel : ViewModel() {
 
     private val apiService = ApiConfig.getApiService()

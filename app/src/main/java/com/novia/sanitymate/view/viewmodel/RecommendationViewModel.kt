@@ -1,8 +1,6 @@
 package com.novia.sanitymate.view.viewmodel
 
-/** Raihan Chaira on 6/15/2024
- * raihanchaira21@gmail.com
- */
+
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

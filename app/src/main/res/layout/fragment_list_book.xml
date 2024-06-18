@@ -44,7 +44,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Emotion : "
+            android:text="Your day at a glance : "
             android:fontFamily="@font/inter_semibold"
             android:textSize="20dp"
             android:textColor="@color/black"/>
@@ -53,7 +53,7 @@
             android:id="@+id/tv_recommendation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:fontFamily="@font/inter"
+            android:fontFamily="@font/inter_semibold"
             android:textColor="@color/white"
             tools:text="Isi rekomendasi"/>
     </LinearLayout>
